@@ -1,0 +1,35 @@
+body {background-color: #f1bebb;
+    margin-bottom: 100px;
+    font-size: larger;
+}
+h1 {color:#f1bebb;
+    text-align: center;
+    background-color:#94232A;
+}
+article{
+    color: #94232A;
+    font-size: larger;
+    font-style: oblique;
+    margin: 35px;
+}
+h2 {
+text-align: center;
+color: #94232A;
+margin-bottom: 0;
+}
+
+img{margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 355px;}
+ol {background-color:#f58781;
+    color:  #8a121a;
+margin-left: 45px;
+margin-right: 45px;
+}
+ol li{margin: 5px;}
+
+a{
+    text-decoration: none;
+    font-size:large;
+    color: #a52c34;
+}
